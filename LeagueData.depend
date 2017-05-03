@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1492627508 source:c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\main.cpp
+	<iostream>
+	<nlohmann_json.hpp>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<vector>
+	<sstream>
+	<dirent.h>
+	<dataGather.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\memorystream.h
+	"stream.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\filereadstream.h
+	"stream.h"
+	<cstdio>
+
+1490603176 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\rapidjson-master\include\rapidjson\ostreamwrapper.h
+	"stream.h"
+	<iosfwd>
+
+1491594697 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\jsonfmcpp\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<string>
+	<type_traits>
+	<utility>
+	<vector>
+
+1488828972 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\jsonfmcpp\nlohmann_json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<cctype>
+	<ciso646>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<stdexcept>
+	<string>
+	<type_traits>
+	<utility>
+	<vector>
+	<cstdio>
+
+1492627774 c:\users\the yung t-scags\desktop\programming projects\sudoku\leaguedata\datagather.h
+	<iostream>
+	<nlohmann_json.hpp>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<vector>
+	<sstream>
+	<dirent.h>
+
